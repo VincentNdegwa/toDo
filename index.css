@@ -1,0 +1,43 @@
+body{
+    background: #33337f;
+    justify-content: center;
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+    
+}
+input{
+    min-width: 500px;
+    height: 30px;
+    background: skyblue;
+    border: 0px skyblue;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+button{
+   width: 40px;
+   height: auto;
+   font-size: 15px;
+   font-weight: bold;
+   background: skyblue;
+   border: 2px #33337f;
+   border-radius: 5px;
+
+}
+ul{
+    list-style: none;
+    padding: 20px;
+    border:2px #0e1f57 solid ;
+    height: auto;
+    width: auto;
+}
+li{
+    margin-top: 20px;
+}
+#done-btn{
+    height: 20px;
+    width: auto;
+    margin-left: 20px;
+    background: #0e1f57;
+}
